@@ -5,4 +5,4 @@ output: html_document
 HOLA
 
 # Codigos del gato 
-[Teorema del limite central](https://marfernandezollero.github.io/Gato/Ejercicio_6)
+[Teorema del limite central](https://marfernandezollero.github.io/RWD/RWD/Ejercicio_6)
