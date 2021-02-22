@@ -1,0 +1,8 @@
+---
+title: "Bienvenido al espacio del gato analista"
+output: html_document
+---
+HOLA
+
+# Codigos del gato 
+[Teorema del limite central](https://marfernandezollero.github.io/Gato/Ejercicio_6)
